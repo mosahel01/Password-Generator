@@ -31,7 +31,7 @@ A simple and minimal password generator built with **React** and **Tailwind CSS*
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/mosahel01/Password-generator.git
+git clone https://github.com/mosahel01/Password-Generator.git
 cd Password-generator
 ```
 
