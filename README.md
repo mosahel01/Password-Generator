@@ -48,7 +48,7 @@ npm start
 ```
 
 > The app should now be running at [http://localhost:3000](http://localhost:3000)
-> or you can live demo at [mossword-generator](https://www.mossword-generator.netlify.app)
+> or you can live demo at [mossword-generator](https://mossword-generator.netlify.app)
 
 ---
 
